@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-### Hi there 👋
-
 I'm a PHP && Golang full stack developer, I'd like to make some contributions for  PHP && Golang open source and share some thoughts on my blog and GitHub .
 
 ### Contact me
