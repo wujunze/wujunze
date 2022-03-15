@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -1144,14 +1144,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 133 edited files from 12 commits over last 14 days</small>
+                <small>estimation from 133 edited files from 13 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="457.388148626522" height="8" fill="#AA6746"/>
-                    <rect mask="url(#languages-bar)" x="457.388148626522" y="0" width="2.611851373478001" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="457.02031941216165" height="8" fill="#AA6746"/>
+                    <rect mask="url(#languages-bar)" x="457.02031941216165" y="0" width="2.9796805878383443" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1163,9 +1163,9 @@
                                 Solidity
                             </div>
                             <small>
-                                <div>8.18k lines</div>
-                                <div>347 kB</div>
-                                <div>99.43%</div>
+                                <div>7.09k lines</div>
+                                <div>304 kB</div>
+                                <div>99.35%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1178,7 +1178,7 @@
                             <small>
                                 <div>72 lines</div>
                                 <div>1.99 kB</div>
-                                <div>0.57%</div>
+                                <div>0.65%</div>
                             </small>
                         </div>
                     </section>
