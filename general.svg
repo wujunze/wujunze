@@ -1161,8 +1161,8 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="456.9336316882437" height="8" fill="#AA6746"/>
-                    <rect mask="url(#languages-bar)" x="456.9336316882437" y="0" width="3.0663683117562797" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="457.0297602412536" height="8" fill="#AA6746"/>
+                    <rect mask="url(#languages-bar)" x="457.0297602412536" y="0" width="2.9702397587464175" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1174,9 +1174,9 @@
                                 Solidity
                             </div>
                             <small>
-                                <div>6.88k lines</div>
-                                <div>296 kB</div>
-                                <div>99.33%</div>
+                                <div>7.11k lines</div>
+                                <div>305 kB</div>
+                                <div>99.35%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1189,7 +1189,7 @@
                             <small>
                                 <div>72 lines</div>
                                 <div>1.99 kB</div>
-                                <div>0.67%</div>
+                                <div>0.65%</div>
                             </small>
                         </div>
                     </section>
