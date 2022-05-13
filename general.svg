@@ -1086,30 +1086,17 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 97.9mb of code in 10986 edited files across 588 commits</small>
+                <small>estimation from 134mb of code in 12844 edited files across 600 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="358.34592790257364" height="8" fill="#878787"/>
-                    <rect mask="url(#languages-bar)" x="358.34592790257364" y="0" width="101.65407209742641" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="272.9661464017847" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="272.9661464017847" y="0" width="187.03385359821533" height="8" fill="#878787"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#878787" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                Hack
-                            </div>
-                            <small>
-                                <div>141k lines</div>
-                                <div>4.49 MB</div>
-                                <div>77.9%</div>
-                            </small>
-                        </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1118,9 +1105,22 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>27.1k lines</div>
-                                <div>1.27 MB</div>
-                                <div>22.1%</div>
+                                <div>187k lines</div>
+                                <div>8.15 MB</div>
+                                <div>59.34%</div>
+                            </small>
+                        </div>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#878787" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                Hack
+                            </div>
+                            <small>
+                                <div>179k lines</div>
+                                <div>5.58 MB</div>
+                                <div>40.66%</div>
                             </small>
                         </div>
                     </section>
