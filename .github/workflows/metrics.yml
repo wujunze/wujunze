@@ -29,5 +29,3 @@ jobs:
           template: terminal
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Shanghai
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
